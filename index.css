@@ -1,3 +1,5 @@
+/*elements */
+
 html {
     background-color: lightblue;
     font: Arial;
@@ -35,10 +37,8 @@ a:active {
     text-decoration: none;
 }
 
-#header-image {
-    width: 100%;
-    height: 900px;
-}
+
+/*classes */
 
 .wrapper {
     display: grid;
@@ -86,4 +86,15 @@ a:active {
   
 .apt1 {
     float: left;
+}
+
+
+/* ID */
+#header-image {
+    width: 100%;
+    height: 900px;
+}
+
+#apt {
+    justify-content: right;
 }
