@@ -70,6 +70,7 @@ a:active {
     grid-column: 2/4;
     grid-row: 3;
     border: 1px solid black;
+    justify-content: right;
 }
 
 .five {
