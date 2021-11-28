@@ -96,5 +96,13 @@ a:active {
 }
 
 #apt {
+    font-size: large;
     justify-content: right;
+    text-decoration: bold;
+}
+
+#info {
+    font-size: large;
+    justify-content: right;
+    text-decoration: bold;
 }
