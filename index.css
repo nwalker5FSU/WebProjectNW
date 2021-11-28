@@ -85,10 +85,14 @@ a:active {
     border: 1px solid black;
 }
   
-.apt1 {
+.apt1pic {
     float: left;
 }
 
+.apt {
+    justify-content: right;
+    font-size: larger;
+}
 
 /* ID */
 #header-image {
@@ -96,7 +100,4 @@ a:active {
     height: 900px;
 }
 
-#apt {
-    justify-content: right;
-    font-size: large;
-}
+
