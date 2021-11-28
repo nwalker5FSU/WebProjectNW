@@ -97,5 +97,7 @@ a:active {
 }
 
 #apt {
+    justify-content: right;
+    font-size: large;
     clear: right;
 }
