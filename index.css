@@ -58,6 +58,7 @@ a:active {
 .signin {
     grid-column:1/2;
     grid-row:1;
+    border: 1px solid black;
 }
 .nav {
     grid-column: 1/5;
