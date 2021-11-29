@@ -96,6 +96,10 @@ a:active {
     font-size: larger;
 }
 
+.signin {
+    justify-content: right;
+}
+
 /* ID */
 #header-image {
     width: 100%;
