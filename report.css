@@ -77,11 +77,6 @@ a:active {
     height:50px;
 }
 
-.three {
-    grid-column: 1/5;
-    grid-row: 3;
-    border: 1px solid black;
-}
 
 
   
